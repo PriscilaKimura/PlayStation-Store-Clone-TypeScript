@@ -1,27 +1,11 @@
-# Store
+# Lab DIO - Criar Clone da PSN Store com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<h2>Descrição:</h2>
+Lab da DIO para o bootcamp Santander Fullstack Java + Angular com o desafio de criar um clone da PSN Store usando Angular.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h4>Para rodar o projeto</h4>
+Garanta que você tenha o nodee gitesteja instalado em sua máquina;
+Faça o clone do projeto com git clone https://github.com/Enyus/dio-angular-blog.git;
+Entre na pasta DIO_Angular_Blog com cd .\DIO_Angular_Blog\e instale as dependências com npm install;
+Se não tiver o Angular CLI instalado em sua máquina, instale-o globalmente com o códigonpm install -g @angular/cli
+Rode a aplicação com ng serve. O aplicativo será executado na porta http://localhost:4200/ .
