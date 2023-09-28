@@ -1,7 +1,8 @@
 # Lab DIO - Criar Clone da PSN Store com Angular
 
 <h2>Descrição:</h2>
-Lab da DIO para o bootcamp Santander Fullstack Java + Angular com o desafio de criar um clone da PSN Store usando Angular.
+Lab da DIO para o bootcamp Santander Fullstack Java + Angular com o desafio de criar um clone da PlayStation Store usando a framework Angular CLI versão 14.1.2.
+
 
 <h4>Para rodar o projeto</h4>
 <li>Garanta que você tenha o node instalado em sua máquina;</li>
