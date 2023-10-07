@@ -9,3 +9,6 @@ Lab da DIO para o bootcamp Santander Fullstack Java + Angular com o desafio de c
 <li>Entre na pasta DIO_Angular_Blog com cd .\DIO_Angular_Blog\e instale as dependências com npm install;</li>
 <li>Se não tiver o Angular CLI instalado em sua máquina, instale-o globalmente com o código npm install -g @angular/cli</li>
 <li>Rode a aplicação com ng serve. O aplicativo será executado na porta http://localhost:4200/</li>
+<br>
+
+![2023-10-06 (18)](https://github.com/PriscilaKimura/PlayStation-Store-Clone-TypeScript/assets/141864300/93683505-ca80-4ce2-a12a-596f0930dd21)
